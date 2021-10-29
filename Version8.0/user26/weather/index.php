@@ -1,5 +1,6 @@
 <?php
-$apiKey = "API KEY"; //You will need to add in the 
+$apiKey = "31e4548c38f6f0b2d3a2c70ee6ee5776
+"; //You will need to add in the 
 $cityId = "5046997"; //5046997 Shakopee City Id
 $units = "metric";//metric-Celcius  imperial-Farhenheit
 if ($units == 'metric'){//Changes the $temp varaible to match 
